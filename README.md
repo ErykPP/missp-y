@@ -10,7 +10,7 @@ Repozytorium zostało podzielone na kilka branchy.
 ## Branche
 
 ### **main**
-W branchu `main` znajdują się pliki z zajęć prowadzonych w ramach przedmiotu.
+W branchu `zajęcia` znajdują się pliki z zajęć prowadzonych w ramach przedmiotu.
 
 ---
 

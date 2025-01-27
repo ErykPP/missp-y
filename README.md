@@ -16,7 +16,7 @@ W branchu `main` znajdują się pliki z zajęć prowadzonych w ramach przedmiotu
 
 ### **kaggle**
 Branch `kaggle` zawiera:
-- Pliki związane z kursem **Kaggle**.
+- Pliki związane z kursem **Kaggle**, w tym certyfikat.
 - Wyniki konkursu Kaggle, w którym wziąłem udział.
 
 ---
